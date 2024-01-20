@@ -19,7 +19,7 @@ What makes my project stand out is that it gives you a quick and presentable HTM
 To install this project, open the terminal and simply run the command 'npm install' inside the folder of this repo, once all dependecies are installed run the command 'node index.js'.
 
 ## Usage
-The project should be used any time you need to create documentation for your GitHub repository.
+The project should be used any time you need to create a new page for your team.
 The following image shows the web application's appearance and functionality:
 
 ![This app is built with the use of Javascript, Node.js, NPM and the Jest testing library.](./resouces/demo.png)
@@ -37,6 +37,8 @@ For questions about the project, you can reach me at [GitHub: agworkgit](https:/
 This project is licensed under the MIT License.
 
 ## Badges
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
